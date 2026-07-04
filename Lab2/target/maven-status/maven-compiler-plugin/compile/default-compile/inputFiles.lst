@@ -1,0 +1,9 @@
+D:\LTUD-JAVA\Lab2\src\main\java\com\lab\config\AppConfig.java
+D:\LTUD-JAVA\Lab2\src\main\java\com\lab\Main.java
+D:\LTUD-JAVA\Lab2\src\main\java\com\lab\model\Comment.java
+D:\LTUD-JAVA\Lab2\src\main\java\com\lab\proxies\CommentNotificationProxy.java
+D:\LTUD-JAVA\Lab2\src\main\java\com\lab\proxies\EmailNotificationProxy.java
+D:\LTUD-JAVA\Lab2\src\main\java\com\lab\repositories\CommentRepository.java
+D:\LTUD-JAVA\Lab2\src\main\java\com\lab\repositories\DBCommentRepository.java
+D:\LTUD-JAVA\Lab2\src\main\java\com\lab\repositories\FileCommentRepository.java
+D:\LTUD-JAVA\Lab2\src\main\java\com\lab\services\CommentService.java
